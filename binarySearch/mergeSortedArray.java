@@ -1,3 +1,4 @@
+//Given two sorted integer arrays A and B, merge B into A as one sorted array.
 class Solution {
     /**
      * @param A: sorted integer array A which has m elements, 
